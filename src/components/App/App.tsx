@@ -39,7 +39,7 @@ export default function App() {
             {totalVotes > 0 ? (
               <VoteStats votes= {votes} totalVotes={totalVotes} positiveRate={positiveRate}/>
             ) : (
-             < Notification/>
+             <Notification/>
               )
             }
       </div>

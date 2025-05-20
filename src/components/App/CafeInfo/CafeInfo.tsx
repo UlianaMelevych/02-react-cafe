@@ -7,8 +7,7 @@ export default function CafeInfo() {
   <p className={css.description}>
     Please rate our service by selecting one of the options below.
   </p>
-</div>
-    
+</div>  
  );
 }
 
